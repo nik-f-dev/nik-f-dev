@@ -8,6 +8,4 @@
 
 📫 How to reach me: [nikita.fomichev.dev@gmail.com](mailto:nikita.fomichev.dev@gmail.com)
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I started my journey in web development in 2023 and am passionate about integrating AI into web applications.
