@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**nik-f-dev/nik-f-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on web development projects at [sinco.digital](https://sinco.digital).
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Python and Data Science for neural network development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on interesting web development and machine learning projects.
+
+🤔 I’m looking for help with advanced machine learning techniques and data science methodologies.
+
+💬 Ask me about web development, Python, and neural networks.
+
+📫 How to reach me: [nikita.fomichev.dev@gmail.com](mailto:nikita.fomichev.dev@gmail.com)
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I started my journey in web development in 2023 and am passionate about integrating AI into web applications.
